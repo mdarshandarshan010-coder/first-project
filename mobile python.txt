@@ -1,0 +1,7 @@
+# Simple mobile-friendly Python program
+
+name = input("Enter your name: ")
+print("Hello,", name)
+
+num = int(input("Enter a number: "))
+print("Square =", num * num)
